@@ -9,5 +9,7 @@ public class HelloWorld {
 		System.out.println(d);
 		LocalDateTime dt = LocalDateTime.now();
 		System.out.println(dt);
+		String str = "Hello";
+		System.out.println(str);
 	}
 }
